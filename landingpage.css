@@ -1,0 +1,396 @@
+*{
+    font-size: 15px;
+}
+header{
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    width: 150%;
+    background-color:#007bff;
+}
+#h{
+    background-color: rgb(20, 76, 150);
+    color: antiquewhite;
+   
+}
+#h>span{
+    margin-right: 30px;
+    margin-left: 70px;
+}
+#h>em span{
+    margin-left: 700px;
+}
+#a span{
+    color: rgb(33, 86, 200);
+}
+#a{
+    color: rgb(33, 86, 200);
+}
+#a span>b{
+    padding-left: 19px;
+}
+#b>span{
+    color: rgb(33, 86, 200);
+    margin-right:30px;
+    margin-left: 100px;
+}
+#a>img{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+.ku{ background-color: #007bff;
+    display: inline-flex;
+
+}
+.ku nav>span{
+    padding-left: 110px;
+    text-align: middle;
+}
+.ku nav>span:hover{ background: color 2px,aqua ;
+    
+}
+.h1{
+    font-family: var(--title_font);
+    font-size: 60px;
+    padding-top: 260px;
+    padding-left: 60px;
+    color: antiquewhite;
+}
+div h1>strong{
+    color: rgb(33, 86, 200);
+}
+ div>a{padding-left:20px; 
+       padding-bottom: 50px;
+
+
+}
+.f7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 40px;
+    color: antiquewhite;
+    padding-bottom: 100px;
+}
+.h1>strong{
+    color:rgb(33, 86, 200) ;
+    font-size: 60px;
+    color: antiquewhite;
+}
+
+
+.bhokal{
+    background-image: url(school\ image.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+.bhokal>a{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+.table2{
+    border: none;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+    color: antiquewhite;
+    padding: 50px;
+    border-radius: 10px;
+    height: 300px;
+    width: 93%;
+    padding: 30px;
+    padding-left: 30px;
+}
+.e1{
+    background-color:orangered;
+    padding-left: 20px;
+}
+.e2{
+    background-color:peru;
+    padding-left: 20px;
+}
+.e3{
+    background-color:skyblue;
+    padding-left: 20px;
+}
+.p1 img{
+    height: 30px;
+    width: 30px;
+}
+.p1{
+    height: 300px;
+    width: 50%;
+    margin-left:70px;
+}
+h2{
+    font-size: 35px;
+    margin-left: 70px;
+}
+p{
+    margin-left: 70px;
+}
+.p1 p>strong{
+    color:rgb(33, 86, 200);
+}
+.p1 p{
+    color:grey;
+}
+.bekr {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  
+  .left-section, .right-section {
+    width: 48%;
+    height: 600px;
+  }
+  .right-section{
+    background-color: orangered;
+    color: antiquewhite;
+    
+  }
+  hr{
+    height: 3px;
+    background-color:antiquewhite;
+    width: 25%;
+    margin-top:5px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    }
+h3{
+    margin-left: 65px;
+}
+.table{
+    margin-top: 0px;
+    color: antiquewhite;
+    border: 0px;
+    font-size: 100px;
+    padding: 25px;
+    border-radius: 5px;
+    border: 15px;
+}
+.table>th{
+    background-color: pink;
+}
+.jaa{
+    display: inline-flex;
+    overflow: scroll;
+    width: 400px;
+    height:270px;
+    padding-left: 80px;
+}
+.button{
+    border: 2px black;
+    font-size: 19px;
+    color: black;
+    padding: 10px;
+    outline: none;
+    background-color: whitesmoke;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.abeyrr{
+    margin-left: 70px;
+    transform: rotate(180deg);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.table3{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.sorry{
+    margin-left: 0px;
+    color: grey;
+}
+box{
+    border: 2px;
+    background-color:rgb(33, 86, 200) ;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 114px;
+}
+.table3 div>strong{
+    color: rgb(33, 86, 200);
+}
+.px{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.sans{
+    border: 0px;
+    border-radius: 40px rgb(33, 86, 200);
+    color: whitesmoke;
+    background-color:rgb(33, 86, 200) ;
+    font-size: 15px;
+    padding: 4px;
+    margin-right: 9px;
+    width: 127px;
+    height: 35px;
+}
+.ht{
+    color: grey;
+}
+.night{
+    background-color: rgb(33, 86, 200);
+    border: 1px rgb(33, 86, 200);
+    padding: 10px;
+    margin-left: 70px;
+    width: 15%;
+    float: left;
+    box-sizing: border-box;
+}
+.eve{
+    background-color: rgb(33, 86, 200);
+    border: 1px rgb(33, 86, 200);
+    padding: 10px;
+    margin-right: 70px;
+    width: 65%;
+    float: right;
+    box-sizing: border-box;
+}
+.kkk{
+    display: inline-flex;
+    margin: 0%;
+    padding: 0%;
+}
+.hatt{
+    font-size: 40px;
+    margin-left: 70px;
+    color: white;
+}
+.nihtra{
+    font-size: 16px;
+    color: gray;
+}
+.aaja{
+    height: 260px;
+    width: 300px;
+    margin: 0%;
+    padding: 0%; 
+}
+.esi{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1260px;
+}
+.ammayrr{
+    height: 30px;
+    width: 30px;
+}
+.kyakru{
+
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    float: right;
+    border: 1px rgb(33, 86, 200);
+    background-color:rgb(33, 86, 200); 
+    border-width: 100%;
+    width: 100%;
+}
+.aside4 >strong{
+    font-size: 25px;
+    color: white;
+}
+.aside3>strong{
+    font-size: 25px;
+    color: white;
+}
+.aside2>strong{
+    font-size: 25px;
+    color: white;
+}
+.aside1 span>strong,b{
+    font-size: 25px;
+    color: white;
+}
+.kyakru p{
+    margin-left: 0%;
+    font-size: 15px;
+    color: whitesmoke;
+}
+input[type=email]{
+	width: 150px;
+	border-radius: 4px;
+	outline: none;
+	margin: 8px 0;
+	padding: 12px;
+	box-sizing: border-box;
+    font-size: 12px;
+    border: 1px solid gray;
+    background-color: solid gray;
+    height: 50px;
+}
+.thkgyayrr{
+    height:50px ;
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-weight: bold;
+    color:white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.kyakru p:hover {
+    color:pink;
+}
+.thkgyayrr:hover{
+    color:blue;
+}
+.footer{
+    background-color: black;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    float: right;
+    width: 100%;
+    height: 27px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+}
+.footer aside button:hover{
+    color: white;
+}
+.footer aside button{
+    height:25px ;
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: bold;
+    color:rgba(245, 245, 245, 0.676);
+    background-color: rgba(79, 78, 82, 0.767);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.kyakru{
+    margin-bottom: 25px;
+}
+.ku>nav{
+    text-align: center;
+    padding-top: 23px;
+}
+.p1{
+    overflow: scroll;
+    width: 500px;
+    height: 400px;
+   
+}
+.p1>img~p>strong{
+ display: inline-flexbox;
+}
